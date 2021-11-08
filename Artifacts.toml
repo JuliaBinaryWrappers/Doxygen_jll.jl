@@ -1,0 +1,288 @@
+[[Doxygen]]
+arch = "aarch64"
+git-tree-sha1 = "de64dbba880e4bf485f0f06c793fbc0e7db4f950"
+os = "macos"
+
+    [[Doxygen.download]]
+    sha256 = "fec0b8316e4f5bf679da2855f82598982b048afa1afe78dfc80105becf2c6aa2"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.aarch64-apple-darwin.tar.gz"
+[[Doxygen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f38bab2134ad3676da7382eaa51a2c39a4d02d26"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "becfd8f0075a365096242fe9e22be3a219208597a19470089bc1138ef3291f99"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[Doxygen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b23992c008839f72495599eb69092e9089022d4"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "bcf6a4693a15c50c610541373367b10547571cbdff7b0ddca7a02fcbb5a62505"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[Doxygen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5830e132c0a238077b58669636216d48a92155ad"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "fa6e5ca853f86b568f4ff29f61f4f990d19ebf8d505357180b98d80f8b107e5a"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.aarch64-linux-musl-cxx03.tar.gz"
+[[Doxygen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2c8139b38d799ac42afb43a01e40eb2bec91440"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "51957c6d9a0c6677a8890b4b4ab749c5dd54f8d33c34f6fac6dd24cafa8dd0aa"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.aarch64-linux-musl-cxx11.tar.gz"
+[[Doxygen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa4bde56c377012022a5dc61b1a9d220c211dba8"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "4d4a3cac4123ba7e3425eb5628bdb69685dd3c3ff4881986aa4f03c8a5d7f0da"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Doxygen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a336efecf0a8c7991b1568ef0172b02b47c18d8f"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "f2c153b0a72954b4165f9b72c3e82500e5e51b5b205e5dc835e8d1b3b0eb233d"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Doxygen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c0c1ca4dce51d262a7bec61fc3ba55255545e96d"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "f23f10d3236b60f00d535ad592bc45b75b402d40784f70a60b7b14e85f574bea"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Doxygen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e9439af0ffaffd92178c95b73fb3a2e4866afb3"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "09e4e60dd4a9ef55b3c05c2d3f52508163f7008bec0206e4351a1b570ae6f0f2"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Doxygen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a1a533241c46e74478b385058aaf280d04ec56b3"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "86b1ca97f875f29eb00fb6581b3e20222c0f591689ea6b75652fea5b9fc2419a"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Doxygen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b04090bdb22a3184dbc37ec6a7e23d8d470f03de"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "47a75734ab30c8b737b69b28598ff1a16786ede73257a54bf0113438eaedbb93"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Doxygen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3284054e9050e2bd34efca9186c73719e0015716"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "137c4cf0dee1fdcb06d61ee26b7e71752009c07f6972c94245adb6b1813a5cf9"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Doxygen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe9f1d66cded95831a77085f980652f5f55abddf"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "e46460b486614c15b09eed3c946ee7c17d0b6a74dadfa47ab92d322d8d3b9d60"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c180af6fe64f2e4ad54767bcb617c79e9e1d918"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "38e4b447849635d1bcc442b9485ba96d5a9c392440a0c32db03ae8e43af05ace"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-linux-gnu-cxx03.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b36128dfb25f2c6c63a728ec1512a5062191e32"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "5f56fea63bac9cbbf6eb56db9cb02779ef858f51e79cb82c6e99b6154f06cb54"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-linux-gnu-cxx11.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b1abdeb25ced3a0633a4cf8a699a3c5f27d647ff"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "0e590b1477e5a380f050f9a681fd673a2f809af26e0d57df34804ccef6c02e81"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-linux-musl-cxx03.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2ffc34a82b6c5837d3e1c06a6e9c88e2c834555c"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "35d85c0055b600419870bc17accd0e0cd78979f970ea482eacbc674482056230"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-linux-musl-cxx11.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e97e76f9644d28850e202520ebf1d373e4c82622"
+os = "windows"
+
+    [[Doxygen.download]]
+    sha256 = "f8e3501d103b106ad7ddb992af3fa867542e5a9332e0854d58e906db3954aa61"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-w64-mingw32-cxx03.tar.gz"
+[[Doxygen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "947150dfc00ba2b485b60f595e199dc03d7aa837"
+os = "windows"
+
+    [[Doxygen.download]]
+    sha256 = "6166230bb2bd3901c3e9c5c8de6b0797a5ccf1be89e55bb828661afb5986461f"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.i686-w64-mingw32-cxx11.tar.gz"
+[[Doxygen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2ee61a9139821bbb8f32296f62524321e0158f67"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "b2e98b12a998bceac2985ee9cc09c10039228f1096147aaf3b7f7bdc54348ea8"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Doxygen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "41b6b69f9fac015dd5acc4d93f8e95983f2fe39e"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "5ae1b591c850d8d0d7c0c345bf02a5086f433c54bea85d286314097af62635cd"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+git-tree-sha1 = "1db3e551bb8882eb47cdc5e25121e75375976d6f"
+os = "macos"
+
+    [[Doxygen.download]]
+    sha256 = "4c8222788e256357a5e1a91db1ea44d4877824dd66a79c8d18b96da218e11254"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-apple-darwin.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af0ec92227bf6d8001aa35e38a304cd81df831ff"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "bdfa597145ccc08bbe7f95dd59b44887fe52210bc2123ffa874da7e9edf887b5"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87400b5c44a5b2757c84c9882a7dba9013e0ee17"
+libc = "glibc"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "b6ebf42a60727d477fdbaa2d22bff927c418b328475517eeef7970f553ce929c"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b9a8fda13adfe37eed080d8eab0b043e9b15509e"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "89245b56a34c5de8377e82f969cdcb057e56b75553c771830be3698653289d69"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-linux-musl-cxx03.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9232053c0bbaaba5dabfc2cda21c84117ccf536"
+libc = "musl"
+os = "linux"
+
+    [[Doxygen.download]]
+    sha256 = "fc9ee5a9a88beb70f21ffa009299d42f63fa3f1fe1601d747b358eb7ea0fc89f"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-linux-musl-cxx11.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+git-tree-sha1 = "e387932fcb3b06446c28ece83e993387bf536710"
+os = "freebsd"
+
+    [[Doxygen.download]]
+    sha256 = "c6ac7150ab98f1ddebae2d3e3d29b756271492248f3b9515f910012992651b7f"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-unknown-freebsd.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4b0906f90bc4525b65bea1a593ab4688a51e8763"
+os = "windows"
+
+    [[Doxygen.download]]
+    sha256 = "243008d66720c6a17e1d9eff9882cd2b31876bd9e5025fb8044c3ecb4c511081"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Doxygen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e6bbb2e8f5e5ab607ae96a323f860f6c04b0953"
+os = "windows"
+
+    [[Doxygen.download]]
+    sha256 = "5d18233b4e64d7ab9994073a00fcb04160fdbb50a132bf02a6580c97265be3fd"
+    url = "https://github.com/JuliaBinaryWrappers/Doxygen_jll.jl/releases/download/Doxygen-v1.9.2+0/Doxygen.v1.9.2.x86_64-w64-mingw32-cxx11.tar.gz"
